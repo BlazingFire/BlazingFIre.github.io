@@ -35,50 +35,19 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
+
+a {
+  color: #0b0f28;
+  -webkit-transition: 0.3s color;
+  transition: 0.3s color;
+}
+
 a:hover, a:focus {
   text-decoration: none;
   outline: none;
   color: #dd0a37;
 }
 
-.hero {
-width: 100%;
-height: 100%;
-min-width: 100%;
-min-height: 100%;
-position: relative;
-}
-
-.hero::before {
-background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/07/3D-HQ-Images-fantastic-wings.jpg');
-background-size: cover;
-content: "";
-display: block;
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: -2;
-opacity: 0.4;
-}
-
-#main{
-position:relative;
-}
-div#first{
-background-image: url('https://i.imgur.com/6ezqOjn.jpg');
-opacity:0.2;
-width:300px;
-height:300px;
-}
-div#second{
-width:300px;
-height:300px;
-position:absolute;
-top: 0;
-left:0;
-}
 
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
