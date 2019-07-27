@@ -23,7 +23,9 @@ You will gain indelible experiences
 
 
 <div class="video">
-  <iframe src="https://www.youtube.com/embed/5cbUVa5RVLw" frameborder="0" allowfullscreen title="Janmastami Glimpse | default: "Video" }}"></iframe>
+ <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 </div>
 
 ``` html
