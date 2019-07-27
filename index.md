@@ -21,5 +21,10 @@ You will gain indelible experiences
 
 {% include video.html id="5cbUVa5RVLw" title="Janmastami Glimpse" %}
 
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/5cbUVa5RVLw" frameborder="0" allowfullscreen title="Janmastami Glimpse | default: "Video" }}"></iframe>
+</div>
+
 ``` html
 ```
