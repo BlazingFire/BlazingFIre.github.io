@@ -22,11 +22,18 @@ You will gain indelible experiences
 {% include video.html id="5cbUVa5RVLw" title="Janmastami Glimpse" %}
 
 
-#footer ul li {
-    background: https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 no-repeat 0 50%;
-    /* will also set the opacity of the link text */        
-    opacity: 0.5;
+
+div {
+  width: 300px;
+  height: 200px;
+  background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("https://i.imgur.com/xnh5x47.jpg");
 }
+span {
+  background: black;
+  color: white;
+}
+<div class="zn-bgSource "  ><div class="zn-bgSource-image" style="background-image:url(https://udgaar.in/wp-content/uploads/2017/02/bg.png);background-repeat:no-repeat;background-position:center center;background-size:cover;background-attachment:scroll"></div></div>
+			
 
 ``` html
 ```
