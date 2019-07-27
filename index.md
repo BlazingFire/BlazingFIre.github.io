@@ -22,11 +22,11 @@ You will gain indelible experiences
 {% include video.html id="5cbUVa5RVLw" title="Janmastami Glimpse" %}
 
 
-<div class="video">
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
+#footer ul li {
+    background: https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 no-repeat 0 50%;
+    /* will also set the opacity of the link text */        
+    opacity: 0.5;
+}
 
 ``` html
 ```
